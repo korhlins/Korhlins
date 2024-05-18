@@ -5,8 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=Korhlins&style=flat-square)
 
 - 👋 Hi, I’m @Korhlins
-- 🌱 I’m currently learning Flutter and Dart
-- 👯 I’m looking to collaborate on Mobile Application Development project using Flutter and Dart
+- 👯 I’m looking to collaborate on Backend Application Development project using Spring and Java
 - 📫 How to reach me: www.linkedin.com/in/collins-asala-4350b11b3
 -->
 
@@ -16,4 +15,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://Springboot.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview?image=/logos/springio/springio-ar21.svg" alt="spring" width="40" height="40"/> </a> </p>
