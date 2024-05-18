@@ -15,6 +15,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://Spring.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="70" height="40"/> </a> </p>
-<p align="left"> <a href="https://mysql.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="spring" width="70" height="40"/> </a> </p>
-<p align="left"> <a href="https://www.oracle.com/ng/java/technologies/downloads/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="spring" width="70" height="40"/> </a> </p>
+<p align="left"> <a href="https://Spring.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="70" height="40"/> </a> 
+ <a href="https://mysql.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="spring" width="70" height="40"/> </a>
+ <a href="https://www.oracle.com/ng/java/technologies/downloads/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="spring" width="70" height="40"/> </a></p>
+
